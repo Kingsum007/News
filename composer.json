@@ -1,0 +1,7 @@
+{
+    "require": {
+        "dompdf/dompdf": "^0.8.3",
+        "yidas/pagination": "^1.0",
+        "nesbot/carbon": "^2.28"
+    }
+}
